@@ -1,6 +1,8 @@
 # GAN-on-Simpsons
 Case Study for Deep Learning at University of Toronto 
 
+Data Source : https://www.kaggle.com/kostastokis/simpsons-faces
+
 In this assignment you are generating sample images of Simpsons with deep convolutional generative adversarial networks (DCGANs).
 
 You need to do the following:
